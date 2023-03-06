@@ -1,3 +1,6 @@
 [submodule "Contains-Duplicate-JAVA"]
 	path = Contains-Duplicate-JAVA
 	url = https://github.com/HubiRto/Contains-Duplicate-JAVA.git
+[submodule "Contains-Duplicate-CPP"]
+	path = Contains-Duplicate-CPP
+	url = https://github.com/HubiRto/Contains-Duplicate-CPP.git
